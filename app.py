@@ -17,7 +17,7 @@ st.set_page_config(
     layout = "wide"
 )
 
-st.title("📶 Telco Telecom Case")
+st.title("📶 Telco Telecom Churn Analysis")
 
 # --------------- FUNCTIONS ---------------
 
@@ -141,7 +141,7 @@ with tab_report:
         |`StreamingTV`|Has TV streaming?|
         |`StreamingMovies`|Has movie streaming?|
         |`Contract`|Contract type(month-to-month, annual or bi-annual)|
-        |`PaperlessBilling`|Receives bills?|
+        |`PaperlessBilling`|Receives paperless billing?|
         |`PaymentMethod`|Payment method|
         |`MonthlyCharges`|Service fee|
         |`TotalCharges`|Total paid by customer|

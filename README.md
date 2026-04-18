@@ -30,6 +30,7 @@ This project was developed using:
 ## 🚀 How to Run
 
 Access the web application on Streamlit Cloud:
+https://churn-telecom.streamlit.app/#66d845e4
 
 #### Prerequisites
 -   Python 3.12+
@@ -38,8 +39,8 @@ Access the web application on Streamlit Cloud:
 #### Execution
 1️⃣ **Clone the repository**
 ``` bash
-git clone https://github.com/datalopes1/telecom_churn.git
-cd telecom_churn
+git clone https://github.com/HarlH/churn_telecom.git
+cd churn_telecom
 ```
 
 2️⃣ **Create and activate a virtual environment (recommended)**
@@ -69,7 +70,6 @@ telecom-churn/
 |   ├── processed/              # Treated data
 |-- models/                     # Trained models
 |-- notebooks
-|   ├── plots/                  # .png files generated in the EDA
 |   ├── eda.ipynb               # Exploratory Data Analysis Notebook
 |   ├── modeling.ipynb          # Machine Learning model construction Notebook
 |-- scr/                        # Scripts
