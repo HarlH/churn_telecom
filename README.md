@@ -30,7 +30,6 @@ This project was developed using:
 ## 🚀 How to Run
 
 Access the web application on Streamlit Cloud:
-https://telcotelecom-churn.streamlit.app/
 
 #### Prerequisites
 -   Python 3.12+
