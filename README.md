@@ -18,7 +18,7 @@ Through an interactive report and dashboard, users can explore the key factors i
 ## ⚙️ Technologies Used
 
 This project was developed using: 
-- **Python 3.12+** 
+- **Python 3.11** 
 - **Streamlit(Interface)** 
 - **Pandas & NumPy (Data Manipulation)** 
 - **Scikit-learn, CatBoost (Machine Learning)**
