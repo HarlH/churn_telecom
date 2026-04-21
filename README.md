@@ -95,5 +95,5 @@ for more details.
 ## 📞 Contact
 
 -   LinkedIn: https://www.linkedin.com/in/ngoc-bao-chan-le-7757651b5/
--   Portfolio: 
+-   Portfolio: https://harlh.github.io/
 -   E-mail: lengocbaochan@gmail.com
